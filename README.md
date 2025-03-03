@@ -1,5 +1,5 @@
 ## Vlad Kulkov
-![Vlad Kulkov](![567443234](https://github.com/user-attachments/assets/25471f56-96ed-42d3-9701-7fb08744da18)
+![567443234](https://github.com/user-attachments/assets/25471f56-96ed-42d3-9701-7fb08744da18)
 )
 
 
