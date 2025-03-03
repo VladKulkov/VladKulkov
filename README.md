@@ -1,5 +1,6 @@
 ## Vlad Kulkov
-![Vlad Kulkov]()
+![Vlad Kulkov](![567443234](https://github.com/user-attachments/assets/25471f56-96ed-42d3-9701-7fb08744da18)
+)
 
 
 
@@ -78,6 +79,6 @@
 
 
 ## Follow Me
-[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/dmytroshpak)
-[ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ](https://www.instagram.com/dmytro__shpak/)
-[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ](https://www.linkedin.com/in/dmytro-shpak-29229132a/)
+[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/klkv_v)
+[ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ](https://www.instagram.com/_klkvv/)
+[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ]()
