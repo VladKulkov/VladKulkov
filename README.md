@@ -1,6 +1,6 @@
 ## Vlad Kulkov
 ![567443234](https://github.com/user-attachments/assets/25471f56-96ed-42d3-9701-7fb08744da18)
-)
+
 
 
 
@@ -11,50 +11,55 @@
 
 ### Bug-reports 
 
-##### PC games:
-- [AgeOfMystery]()
-- [BattleOftheWildWest]()
 
 #### Mobile games: 
-- [FarmingFever](https://trello.com/b/5c4UPC90/farmingfever)
-- [Gallery](https://trello.com/b/KAgweUmS/gallery)
-- [HowToDiceMushroom](https://trello.com/b/yGLx3PqF/howtodicemushrooms)
-- [LittleShooter](https://trello.com/b/JDMDCk89/littleshooter)
+- [FarmingFever](https://trello.com/b/WzuuHAKu/farmingfever)
+- [basedefence](https://trello.com/b/ZOdWRYis/basedefences)
+- [cards-master](https://trello.com/b/kxfSx6LQ/cards-master)
 
 #### Web-sites:
 
-- [9Courses](https://trello.com/b/47DPHbRb/9courses)
-- [pwa-theme-woocommerce](https://trello.com/b/arKNNCfS/pwa-theme-woocommerce)
-- [Rainy Roof Reastaurant](https://trello.com/b/4HqHdXiz/rainy-roof-reastaurant)
+- [Jiolife](https://trello.com/b/ZJLxoBUc/jiolife)
+- [makesscents](https://trello.com/b/hwbaDitk/makesscents)
+- [Rainy Roof Reastaurant](https://trello.com/b/QR4lgW3H/rainy-roof)
 - [ROYAL HOUSE](https://trello.com/b/8Pa1xNkp/royal-house)
-- [Tallinn](https://trello.com/b/5gn7Ua2W/%D1%81%D0%B0%D0%B9%D1%82-http-tallinncold-timecom)
-- [Сайт зачісок](https://trello.com/b/IupEXHcH/%D1%81%D0%B0%D0%B9%D1%82-%D0%B7%D0%B0%D1%87%D1%96%D1%81%D0%BE%D0%BA)
-- [Сайт: Будуєм дім](https://trello.com/b/zimT2riK/%D1%81%D0%B0%D0%B9%D1%82-%D0%B1%D1%83%D0%B4%D1%83%D1%94%D0%BC-%D0%B4%D1%96%D0%BC)
+- [Smart-funding](https://trello.com/b/l7LX9OFf/smart-funding)
+- [Leakyru](https://trello.com/b/pUujx4aN/leakyru)
 
 ### Check-lists
-#### PC Games:
-- [Snake](https://docs.google.com/spreadsheets/d/1V_yq9WYhcOcOYusnVa_jLoPVtuws2JOoNniAK99ZRY0/edit?usp=sharing)
-- [Electric Trains](https://docs.google.com/spreadsheets/d/17bMMnNUVOhnC9cd60_owsw8Q_bXk1ltRRnm8720e-sU/edit?usp=sharing)
 
 #### Mobile games:
-- [Gallery](https://docs.google.com/spreadsheets/d/1VK-BWJjc1KzcyUsuuzhlSqKM6lMJdfIXvSmtCEI1DRk/edit?usp=sharing)
+- [Cards Master](https://docs.google.com/spreadsheets/d/15Qa32e7nA3k3hfic7XpuVeD3aldKR5uNIMw1rRlmQF0/edit?usp=sharing)
+- [Angry birds](https://docs.google.com/spreadsheets/d/1EAPVAgLUDAnZxkz8FvUpn8JHOBo9By4RZN8fd5d_Wwc/edit?usp=sharing)
+- [Terrarforma](https://docs.google.com/spreadsheets/d/1BOIcGGGScl7MDc0NJpfyPhBgnKCZ8GOEtvSSf3GE8sQ/edit?gid=233601473#gid=233601473)
+- [LittleShooter](https://docs.google.com/spreadsheets/d/1quIF2qDdFCb26LW4wXW4_pdBCv1nKep1vzvMxxD6G0w/edit?gid=233601473#gid=233601473)
+- [FarmingFever](https://docs.google.com/spreadsheets/d/1317zauCVtzAyLpYd0DOTiW_1R1v-VpmHWtC98Yk5pyU/edit?gid=233601473#gid=233601473)
 
 #### Web-sites:
-- [Ecdevstudio](https://docs.google.com/spreadsheets/d/1tihMMcNegUD9QzY5epQLN-j9qOaB6g5NagdF4bCWwrE/edit?usp=sharing)
-- [Tutortonic](https://docs.google.com/spreadsheets/d/1CG0gB3kHgX86Jxy-REjhh59afwRI_t7812tTvfrMC3o/edit?usp=sharing)
-- [9courses](https://docs.google.com/spreadsheets/d/1wG84ZtTD3FOf1ntu5lAbCNTqmnjzB4qp5KN1A_qr5zg/edit?usp=sharing)
+- [Дома на века](https://docs.google.com/spreadsheets/d/1oNsQRDk2Dt-C8kVok100CswgSIl3jMI9hgRnZPOVXoI/edit?gid=233601473#gid=233601473)
+- [Leaky.ru](https://docs.google.com/spreadsheets/d/1J2ZDfxuFQ4XoJOjGc2uI6RuwH8aFmMolaQtJtRRt89g/edit?gid=233601473#gid=233601473)
+- [Makes Scents](https://docs.google.com/spreadsheets/d/1e20MVNUuKbwxi78dfasGhYKxm60qXC6Br-xp16siu20/edit?gid=233601473#gid=233601473)
+- [Jio Life](https://docs.google.com/spreadsheets/d/1R9r7rBzIo6wpytSRZwTo5vCPEraYGXJC6Sh13FVxmBw/edit?gid=233601473#gid=233601473)
+- [RainyRoof](https://docs.google.com/spreadsheets/d/1OasNspkDFaKsmtM-iXvzUesc0IQhzlzhngFY7R3F024/edit?gid=233601473#gid=233601473)
   
 ### Test cases 
 
 
 #### Web-sites:
 
-- [9Courses](https://docs.google.com/spreadsheets/d/1sF0a9RbzayeZzkHU46Y45uInGOUiySbJMn2xRoUjepI/edit?usp=sharing)
-- [EcDevStudio](https://docs.google.com/spreadsheets/d/12hSkaOnMwMku8i6eQ4CJBZwqpkl6x2NMe6ECiic3t8U/edit?usp=sharing)
+- [Leaky.ru](https://docs.google.com/spreadsheets/d/1Io6S8rlNz5gjVkxknw6ftQEEAjK6gh57lK1Ko0HZe9w/edit?gid=233601473#gid=233601473)
+- [Makes Scents](https://docs.google.com/spreadsheets/d/1xxUiksfnA0vhJbDbGtl4WHipnNZGoO9hRpQZcEsKG5g/edit?gid=233601473#gid=233601473)
+- [RainyRoof](https://docs.google.com/spreadsheets/d/1loon2FvvyGCmVNYwVuca5ndptPb-mdSnjUZPqCLqk78/edit?gid=233601473#gid=233601473)
+- [Дома на века](https://docs.google.com/spreadsheets/d/1BsvGJ_jMwXv506kpS-NfHPeftSU_rf87Rj_Dwq3dY_Y/edit?gid=233601473#gid=233601473)
+- [Royal House](https://docs.google.com/spreadsheets/d/1FUSOwKIO1SHSNwnPPowzds2SipsHSumKgl733Cjx-SY/edit?usp=sharing)
 
-#### PC Games:
+#### Mobile Games:
+- [Terrarforma](https://docs.google.com/spreadsheets/d/1_wyfW57Pq0opg8aShyILevVrc-gDTJAxXxpjl4flzV4/edit?gid=233601473#gid=233601473)
+- [CardsMaster](https://docs.google.com/spreadsheets/d/1NoEWcp68-WxTAkX9R8u9iuRgvayYtcJckjZld23-1MY/edit?gid=233601473#gid=233601473)
+- [Little Shooter](https://docs.google.com/spreadsheets/d/1YZVViBexrg8GceRlp9pldqaozpgZyd9hTpxexRYpa7I/edit?gid=233601473#gid=233601473)
+- [FarmingFever](https://docs.google.com/spreadsheets/d/1XaUIY3Qr7bhfNJVF2mn9i-yETT9V_e-0ZduCjdwXRvk/edit?usp=sharing)
 
-- [Electric trains](https://docs.google.com/spreadsheets/d/12hSkaOnMwMku8i6eQ4CJBZwqpkl6x2NMe6ECiic3t8U/edit?usp=sharing)
+
 
 
 ## Languages and Tools
