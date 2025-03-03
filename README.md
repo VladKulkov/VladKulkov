@@ -22,7 +22,6 @@
 - [Jiolife](https://trello.com/b/ZJLxoBUc/jiolife)
 - [makesscents](https://trello.com/b/hwbaDitk/makesscents)
 - [Rainy Roof Reastaurant](https://trello.com/b/QR4lgW3H/rainy-roof)
-- [ROYAL HOUSE](https://trello.com/b/8Pa1xNkp/royal-house)
 - [Smart-funding](https://trello.com/b/l7LX9OFf/smart-funding)
 - [Leakyru](https://trello.com/b/pUujx4aN/leakyru)
 
