@@ -74,7 +74,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-629FF6?style=for-the-badge&logo=Jira&logoColor=166BE0)
 ![Postman](https://img.shields.io/badge/-Postman-D7D0AD?style=for-the-badge&logo=Postman&logoColor=FB7C29)
 ![Swagger](https://img.shields.io/badge/-Swagger-173648?style=for-the-badge&logo=Swagger&logoColor=8BB600)
-![JSON](https://img.shields.io/badge/-JSON-B2B2B2?style=for-the-badge&logo=JSON&logoColor=393939)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-2B6D05?style=for-the-badge&logo=Fiddler&logoColor=2B6D05)
 ![MySQL](https://img.shields.io/badge/-MySQL-5181A2?style=for-the-badge&logo=MySQL&logoColor=00337E)
 ![DevTools](https://img.shields.io/badge/-DevTools-266EE4?style=for-the-badge&logo=DevTools&logoColor=266EE4)
